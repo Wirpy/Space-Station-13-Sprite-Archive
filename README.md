@@ -1,12 +1,7 @@
-# Space-Station-13-Sprite-Archive
+Space Station 13 Sprite Collection
 
+This is an collection of sprites, collected by legionrus from various artists / servers that exist within the Space Station 13 community. He's also made various sprite sheets of related sprites included in this git.
 
-The Space Station 13 sprite trove
+These sprites are meant to be used as inspiration / reference. If you wish to use any of the sprites for a server, I suggest contacting the original artist/codebase. 
 
-An sprite archive started by Legionrus
-
-The number 1 spot for SS13 specific sprite references. 
-
-Includes cool sprite sheets of related sprits made by legionrus 
-
-Want to contribute? Just make a pr with sprites you've collected or made. 
+perhaps in the future I will re-organize it and add more sprite to this archive. 
