@@ -1,0 +1,218 @@
+XENO CHANGELOG
+
+VERSION: 1.9.2b
+-Fixes arms and legs for 1x1 xenos and 2x2 praetorians, and spit animations to all files.
+
+VERSION: 1.9.2
+-Updates all blood and user interface sprites to make use of greyscale.
+
+VERSION: 1.9.1b
+-Adds small queen head to 1x1 xeno dismemberment.
+
+VERSION: 1.9.1
+-Greyscales all dismemberment sprites, and separates blood/teeth into overlays.
+
+VERSION: 1.9
+-Adds xeno dismemberment in 1x1, 2x2, and 3x3 forms. These are in black colors to pave the way of black xenos/resin.
+-New weeds and resin are WORK IN PROGRESS and are not ready to be put in at this time.
+
+VERSION: 1.8.3
+-Cleaned out a lot of old unused .dmis and renamed others.
+
+VERSION: 1.8.2f
+-Updates a few UI buttons.
+-Adds queen and praetorian cuff sprites.
+
+VERSION: 1.8.2e
+-Adds neurotoxic spit animations to 1x1 and 2x2 xenos.
+
+VERSION: 1.8.2d
+-Makes far pinpointer sprites slightly more visible.
+
+VERSION: 1.8.2c
+-Updates the queen pinpointer sprites.
+
+VERSION: 1.8.2b
+-Adds new spit icon in interface.dmi
+
+VERSION: 1.8.2
+-Adds new queen to 2x2 xenos.dmi, new praetorian WIP.
+-Adds V2 and V3 for "no queen allowed" status effect to interface.dmi
+
+VERSION: 1.8.1b
+-Adds "no queen allowed" status effect to user interface.dmi
+
+VERSION: 1.8.1a
+-Adds two new xenobio signs to misc.dmi
+
+VERSION: PLEASE STOP
+-Added husked praetorian and queen to 2x2 xenos.dmi
+
+VERSION: WHO CARES?
+-Added new facehugger and praetorian inhands to 2x2 xenos.dmi
+
+VERSION: 1.8g
+-Added praetorian promotion inhand to user interface.dmi
+
+VERSION: 1.8f
+-Buttons moved to user interface.dmi
+-Added toggled-on version of promote-to-praetorian button.
+
+VERSION: 1.8e
+-More buttons to misc.dmi
+
+VERSION: 1.8d
+-Tail swipe button overlay in misc.dmi
+
+VERSION: 1.8c
+-Redid praetorian sprites in 2x2 xenos.
+
+VERSION: 1.8b
+-Added new xeno organs, changed color palette for existing ones.
+
+VERSION: 1.8a
+-Human and xeno organs in misc.dmi
+
+VERSION: 1.8.pre2
+-Updated large queen sprite, will do praetorian at some point.
+-Hunter stalk sprite, we never had this apparently.
+-Spitter stalk sprite.
+-Changed color of accurate xeno acid blood to be much more sickly yellow.
+
+VERSION: 1.8.pre1
+-Dismemberment WIP for most xenos. Will expand to larger aliens after those are redrawn.
+
+VERSION: 1.7.2c
+-Made the xeno suit that of a drone. As such there is no "fitting" thing anymore.
+
+VERSION: 1.7.2b
+-Removed genetics.dmi
+-Redid the xeno suit sprites. They're horrifically effective now. Requires some "fitting" snowflake code for the helmet.
+
+VERSION: 1.7.2
+-Adds cocoons for hunter -> praetorian and praetorian -> queen
+-Redid grab UI icons
+-Changed some egg colors to be much more visible
+
+VERSION: 1.7f
+-More depravity.
+
+VERSION: 1.7e
+-Horrible horrible depraving things were done.
+
+VERSION: 1.7d
+-Adds a bunch more 3x3 queen ovipositor sprites for different states such as sleeping, knocked down, and dead.
+
+VERSION: 1.7c
+-Redid a few sensor parts to accomodate the new nightvision button, a big eye that turns green when enabled.
+  THE OXYGEN, FIRE, AND TOXINS ALIEN ALERTS MUST BE REPLACED FOR THIS TO LOOK RIGHT.
+
+VERSION: 1.7b
+-Minor fixes to crusher xeno
+-Changes hunter stalk transparency from 25 to 75 so it's not almost completely invisible. It's still very hard to see on the corresponding resin color, especially when it's dark.
+-Moved all 2x1 xenos to a new .dmi, both regular and accurate 2x1 xenos share it.
+-Loads more inhands for facehuggers on every possible stance and size of alien.
+  Some of these are WIP!
+
+VERSION: 1.7a
+-I can't even describe how much has been done and changed. A lot.
+
+VERSION: 1.6.6
+-Finally gets around to making the 2x2 praetorian fully detailed in all forms.
+-Some fixes, maybe, I don't remember.
+
+VERSION: 1.6.5d
+-Fixes white pixel on north 1x1 praetorian hunt stance, how embarrasing!
+
+VERSION: 1.6.5c
+-Adds various new facehug sprites for dead ian/puppy, goat, cow, and space carp. 
+-WIP larva inhands and resist animation.
+
+VERSION: 1.6.5b
+-Fixes for queen and praetorian sprites. Adds shadows to all of them and fixes up some minor details. Please apply these!
+
+VERSION: 1.6.5
+-Xeno Empress
+-Swimmer Xeno
+-Accurate versions and all corresponding necessary stuff.
+
+VERSION: 1.6.4
+-Pheremone pods
+-Royal jelly
+-New queen powers -- obey, help, and view.
+-Queen hive view, much like the red circle when you get hurt, except this is for observing fellow xenos. Credits all go to whitheredGryphon.
+-Queen pinpointer. All xenos that are not the queen can see where she is. Works like a pinpointer pointing at the nuke disk, except for the current living queen.
+-Nest overlays for when you buckle people onto nests.
+-Spitter, replaces the sentinel's sprites because the sentinel was too hard to distinguish half the time.
+-Runner, a larva born from a dog, a goat, or a cow. Faster than all other xenos. Cannot hold onto items.
+
+VERSION: 1.6.3
+-Added 2x2 praetorian (includes sleeping, knocked down, dead, and accurate versions)
+
+VERSION: 1.6.2
+-A LOT OF FIXES FOR A LOT OF THINGS.
+-Queen must have sprites replaced (north and south)
+-Sleeping xeno V1 drone no longer has back spines, alternatively replace all sleeping xenos with V2.
+-Pounce stance for xenos
+-Mid air 2x1 for xenos
+-Xenoborg version
+-Bloody xeno larva to tell if it has bursted out of someone or if it was spawned.
+-Drones in ALL forms no longer have spines on their backs (crawling, sleeping, pouncing etc etc)
+
+VERSION: 1.6.1b
+-Fixed dark resin clinging wall colours
+
+VERSION: 1.6.1
+-Dark and accurate versions of xeno resin/weeds have been redone to have far far more contrast.
+
+VERSION: 1.6b
+-Dark and accurate versions of chittin, claws and weed extracts. Accurate versions of infected 1 and infected 3.
+
+VERSION: 1.6
+-"2x2" xeno queen, in actuality it is a 3x3 sprite centered on the middle tile because of mob and movement code limitations.
+-Directional, sleeping, and dead versions of 2x2 queen
+-2x1 crawling stance xenos, only on the side sprites can the back half appear, and when not up against a wall.
+-Praetorians and their sleeping, dead, stalk/hunt/crawl stances.
+-Dark coloured resin/weeds. This applies to ALL current weeds, walls, doors, windows, nodes, and nests, and any variation.
+-3 way and 4 way nests.
+-Xenoborg crawl stance.
+-New HUD/GUI icons for new stances and actions. Includes old/new type gui.
+-Improved corrosive acid
+-Moved contents of nest.dmi and doors.dmi to construction.dmi
+-Prettier Neurotoxin Spit
+-"Accurate" type xenos. A complete recolour for every single xeno thing out there to be closer to the original (black xenos and black resin, beige larvae etc)
+
+VERSION: 1.5.1
+-Husked xenos (all kinds)
+-Directional stunned larvae
+-Wall resin
+
+VERSION: 1.5
+-Xeno AI
+-MUCH improved knocked down xenos (All kinds)
+-MUCH improved dead xenos (All kinds)
+-Cuffed larva
+
+VERSION: 1.4.9
+-Fixes for xenobio armor
+-New corrosive acid replacement in misc.dmi
+-Fixes for minibots
+
+VERSION: 1.4.8
+-Deleted rats.dmi
+-New minibots!
+
+VERSION: 1.4.7
+-Lots of fixes for sprites in aliens.dmi.
+-Dead xenos, I'll make something better in the future.
+-Deleted damage.dmi
+-PLEASE UPDATE ALL HUNTING STANCE SPRITES
+-PLEASE UPDATE ALL SLEEPING XENOS SPRITES
+
+VERSION: 1.4.6
+-Xenoborgs! Stalking, Hunting and sleeping versions.
+-New status huds for infected people, for zelacks.
+
+VERSION: 1.4.5
+-Sleeping and stunned larva. Stunning intended to encourage players to go non lethal and drag to xenobio. The visual effect is to declare an easy capture.
+-WIP Alien "Leopard". Only left and right sides. Will resume soon.
